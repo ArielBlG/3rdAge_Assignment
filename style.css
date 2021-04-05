@@ -222,7 +222,7 @@ section{
     
 }
 .circle:hover{
-    transform: scale(1.1);
+    transform: scale(1.5);
 }
 .text{
     color:white;
@@ -236,4 +236,7 @@ section{
 {
     z-index: 999;
     position: relative;
+}
+.column:hover{
+    transform: scale(1.5);
 }
